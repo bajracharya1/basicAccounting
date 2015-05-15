@@ -18,12 +18,9 @@
          <div class="taxInfo">
   <div class="col-md-8"> 
   <div id="totalTax"></div>
-  <div id="bd"></div>     
-  <div id="cityTax"></div>
-  <div id="countyTax"></div>
-  <div id="stateTax"></div>
-  
-         </div>  </div></div>
+  <div class="taxData"</div>
+    
+             </div>  </div></div></div>
    
     
     <div id="indexRow">

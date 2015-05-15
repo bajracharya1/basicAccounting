@@ -6,8 +6,8 @@
 
   <title>Prakash Weblab Project</title>
 
-  <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-
+  <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>-->
+ <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
     
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
@@ -22,7 +22,7 @@
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
      <link rel="stylesheet" href="stylesheet/stylesheet.css">
-    <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
+   
     <script src="script/zipTax.js"></script>
 </head>
 
