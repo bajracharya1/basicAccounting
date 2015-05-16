@@ -18,7 +18,8 @@
      }
   ?>
     
-<div class ="container-fluid">
+<div class ="container-fluid"></br>
+    <p> Record your Office Expenses</p></br>
   <input type="date" name="date" class="form-control"  value="<?php echo date('Y-m-d'); ?>" />  
 <select name="acc" class="form-control"<?php if ($isEditing) { ?> value="<?php print $row['Acc']?>"<?php } ?>  />
     <option value="Office Supplies" >Office Supplies</option>

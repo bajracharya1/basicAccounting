@@ -72,7 +72,7 @@ while($row=mysqli_fetch_array($totalIncome)) {
 echo "<table>";
 echo "<tr class='border'>";  
 echo "<td align='left' width='150'>" ;
-    echo "Grand Total :". "<td align= 'right' width='80'>"."$ ". $row['SUM(Amt)'] . "</td>";  
+echo "Grand Total :". "<td align= 'right' width='80'>"."$ ". $row['SUM(Amt)'] . "</td>";  
 echo "</tr>";  
     
         $GLOBALS['income'] =   $row['SUM(Amt)'];

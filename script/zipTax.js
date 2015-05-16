@@ -8,6 +8,7 @@ $(document).ready(function(){
 function getTaxRate(){
   
     $(".taxData").html("");
+    $("#totalTax").html("");
     var url = "https://taxrates.api.avalara.com/postal?country=usa&postal="+($('#tax').val())+"&apikey=%2FlufGDlUKZwV1tfS4Jfgl0RX4VCFoVhbuoIepl18%2BeHs0OdixWDURIZQkxgYJwZcPtKD7UKMLv%2FOToDZxSdSgw%3D%3D";
 
   console.log(url);

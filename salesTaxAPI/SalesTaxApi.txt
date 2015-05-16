@@ -1,0 +1,4 @@
+http://taxratesapi.avalara.com/account
+
+user: prb75038@yahoo.com
+pwd: Prak...*..3

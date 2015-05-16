@@ -1,8 +1,8 @@
 <?php include('includes/header.php'); ?>
 
 
-<div id="wrap">
-   <div class="col-md-4">
+<div class="wrapper">
+<div class="col-md-4">
 <h3>Income</h3>
   <?php
   if (isset($_GET['message'])){
@@ -52,7 +52,7 @@
 
 ?>
   </table>
- </div>     
+ </div>   
 
 <?Php //PURCHASES ?>
     

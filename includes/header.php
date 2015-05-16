@@ -49,6 +49,7 @@
             <li class="divider"></li>
             <li ><a href="exp.php">Add Office Expenses</a> </li>
             <li class="divider"></li>
+             <li ><a href="dashboard.php">View or Edit Transaction</a> </li>
             
           </ul>
     
@@ -56,13 +57,13 @@
    <li class="dropdown">
           <a href="sum.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Reports <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
-         <li> <a href="sum.php">Total Purchases</a></li>
-         <li> <a href="sum.php">Total Sales</a></li>
-         <li> <a href="sum.php">Total Expenses</a></li>
+         <li> <a href="purchaseReport.php">Total Purchases</a></li>
+         <li> <a href="salesReport.php">Total Sales</a></li>
+         <li> <a href="offExp.php">Total Expenses</a></li>
          <li class="divider"></li>
-         <li> <a href="sum.php">Summary</a></li>
+         <li> <a href="sum.php">Transaction Summary</a></li>
          <li class="divider"></li>
-         <li> <a href="sum.php">Inventory Valuation</a></li>
+         <li> <a href="pnl.php">Profit and Loss</a></li>
     </ul>
        
          <li role="presentation"><a href="about.php">About Us</a></li>
